@@ -1,4 +1,6 @@
 .actionButtons-1sUUug {
     background-color: rgba(33,33,33,.6);
     color: hsla(0,0%,100%,.8);
+    box-shadow: none !important;
+    background-color: rgba(0,0,0,0) !important;
 }
